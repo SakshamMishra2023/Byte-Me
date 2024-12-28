@@ -1,0 +1,6 @@
+Name|Category|Price
+Burger|Main Course|10
+Pizza|Main Course|15
+Salad|Appetizer|8
+a|a|2
+s|s|3

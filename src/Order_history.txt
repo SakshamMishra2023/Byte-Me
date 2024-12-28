@@ -1,0 +1,28 @@
+--- ORDER START ---
+OrderID: 1
+DateTime: 2024-11-25 14:49:15
+CustomerEmail: sak
+CustomerName: sak
+Status: RECEIVED
+TotalCost: 18.0
+ContactNumber: 43434
+ShippingAddress: sf
+PaymentMode: Cash on Delivery
+Items:
+s|s|3.00|6
+--- ORDER END ---
+
+--- ORDER START ---
+OrderID: 1
+DateTime: 2024-12-01 16:03:10
+CustomerEmail: sak
+CustomerName: sak
+Status: RECEIVED
+TotalCost: 18.0
+ContactNumber: 43534
+ShippingAddress: sadsad
+PaymentMode: Cash on Delivery
+Items:
+s|s|3.00|6
+--- ORDER END ---
+

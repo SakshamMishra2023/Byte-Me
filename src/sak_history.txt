@@ -1,0 +1,23 @@
+Customer Information:
+Email: sak
+Name: sak
+VIP Status: No
+
+-------------------
+
+Order History (Most Recent First):
+
+Date: 2024-11-25 14:49:15
+Order ID: 1
+Status: RECEIVED
+Items:
+  - s x6 (₹3.0 each)
+Total Cost: ₹18.0
+Special Request: no
+
+-------------------
+
+Personal Menu History:
+
+-------------------
+

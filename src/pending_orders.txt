@@ -1,0 +1,2 @@
+OrderID|CustomerName|Status|Items|TotalCost|SpecialRequest
+1|sak|RECEIVED|s(6)|18.00|none

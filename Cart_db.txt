@@ -1,0 +1,7 @@
+Current Cart Contents
+--------------------
+Item: s | Price: ₹3.00 | Quantity: 4 | Subtotal: ₹12.00
+--------------------
+Total Cost: ₹12.00
+--------------------
+Last Updated: 2024-11-25T14:42:28.611168400

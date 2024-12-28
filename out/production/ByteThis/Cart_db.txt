@@ -1,0 +1,8 @@
+Current Cart Contents
+--------------------
+Item: Pizza | Price: ₹1099.00 | Quantity: 2 | Subtotal: ₹2198.00
+Item: Burger | Price: ₹899.00 | Quantity: 3 | Subtotal: ₹2697.00
+--------------------
+Total Cost: ₹4895.00
+--------------------
+Last Updated: 2024-12-01T16:04:30.539868200
